@@ -6,7 +6,7 @@
 
     <groupId>org.iesvdm</groupId>
     <artifactId>holamundo</artifactId>
-    <version>java-hola-mundo</version>
+    <version>java</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
